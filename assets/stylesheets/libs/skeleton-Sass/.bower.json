@@ -1,0 +1,35 @@
+{
+  "name": "Skeleton-Sass",
+  "homepage": "https://github.com/whatsnewsaes/Skeleton-Sass",
+  "authors": [
+    "Seth Coelen <scoelen89@gmail.com> (http://SethCoelen.com)"
+  ],
+  "description": "The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+  "main": "scss/skeleton.scss",
+  "keywords": [
+    "skeleton",
+    "sass",
+    "scss",
+    "responsive",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2"
+  },
+  "_release": "2830698dc1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2830698dc1a66b087c1e7c86d338c0c6a8c829f9"
+  },
+  "_source": "https://github.com/whatsnewsaes/Skeleton-Sass.git",
+  "_target": "*",
+  "_originalSource": "skeleton-scss",
+  "_direct": true
+}

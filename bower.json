@@ -1,0 +1,27 @@
+{
+  "name": "seniorApp",
+  "description": "A review time project",
+  "main": "index.js",
+  "authors": [
+    "Antonio Pavicevac-Ortiz <17antonio.ortiz@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "redux",
+    "skeleton"
+  ],
+  "homepage": "https://github.com/antonioOrtiz/senior-enrichment",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton-sass": "^3.1.4",
+    "skeleton": "^2.0.4",
+    "Skeleton-Sass": "skeleton-scss#*"
+  }
+}
