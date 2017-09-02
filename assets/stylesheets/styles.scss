@@ -4,11 +4,14 @@
 @import "libs/skeleton-fontawesome-buttons/_skeleton-fontawesome-buttons.scss";
 
 
-body {
-    background: pink;
+html {
+
+    height: 100%;
+    background: -webkit-linear-gradient(#fbc2eb, #a18cd1); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#fbc2eb, #a18cd1); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#fbc2eb, #a18cd1); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#fbc2eb, #a18cd1); /* Standard syntax (must be last) */
 }
-
-
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
